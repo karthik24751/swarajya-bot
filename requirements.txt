@@ -1,0 +1,10 @@
+python-telegram-bot
+openai-whisper
+vosk
+langdetect
+spacy
+nltk
+gtts
+fastapi
+uvicorn
+python-dotenv 
