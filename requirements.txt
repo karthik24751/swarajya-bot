@@ -1,10 +1,10 @@
 fastapi
 uvicorn
 python-dotenv
-nltk
-spacy
-langdetect
-gtts
-vosk
-openai-whisper
 python-telegram-bot
+openai-whisper
+vosk
+langdetect
+spacy
+nltk
+gtts
