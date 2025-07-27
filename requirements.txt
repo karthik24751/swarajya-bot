@@ -1,10 +1,10 @@
-python-telegram-bot==20.7
-openai-whisper
-vosk
-langdetect
-spacy
-nltk
-gtts
 fastapi
 uvicorn
 python-dotenv
+nltk
+spacy
+langdetect
+gtts
+vosk
+openai-whisper
+python-telegram-bot
